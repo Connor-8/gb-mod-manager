@@ -1,5 +1,7 @@
-# Tauri + Solid + Typescript
 
-Work In Progress
+
+## Work In Progress
 
 Ground Branch GUI Mod Manager
+
+Built with Tauri + Solid.js
