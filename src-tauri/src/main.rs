@@ -11,7 +11,7 @@ static GB_PATCHES_PATH: &'static str = r"C:\Program Files (x86)\Steam\steamapps\
 fn get_mod_type(mod_name: &str) {
     let mod_path = env::current_dir()
         .unwrap()
-        .join(r"C:\Users\conno\Desktop\workbench\gb-mod-manager\src\mods\")
+        .join(r"C:\Users\main\Desktop\workbench\gb-mod-manager\src\mods\")
         .join(mod_name);
     todo!()
 }
